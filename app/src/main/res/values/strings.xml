@@ -3,4 +3,13 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello home fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_timeline_fragment">Hello timeline fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_profile_fragment">Hello profile fragment</string>
 </resources>
